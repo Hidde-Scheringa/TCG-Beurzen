@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "name": "Carddayz @ Brugge",
-        "date": "2025-07-05",
+        "name": "Carddayz",
+        "date": "05-07-2025",
         "time": "10:00",
         "location": "Wijkcentrum Xaverianen",
         "city": "Brugge",
@@ -12,7 +12,7 @@
     {
         "id": "2",
         "name": "Poyukécon event Den Haag",
-        "date": "2025-07-06",
+        "date": "06-07-2025",
         "time": "11:00",
         "location": "Sporthal Overbosch",
         "city": "Den Haag",
@@ -21,8 +21,8 @@
     },
     {
         "id": "3",
-        "name": "Collectorsland (Rijswijk)",
-        "date": "2025-07-12",
+        "name": "Collectorsland",
+        "date": "12-07-2025",
         "time": "10:00",
         "location": "Broodfabriek",
         "city": "Rijswijk",
@@ -31,7 +31,7 @@
     },
     {
         "id": "4",
-        "name": "Collectorsland (Rijswijk)",
+        "name": "Collectorsland",
         "date": "2025-07-13",
         "time": "10:00",
         "location": "Broodfabriek",
@@ -42,11 +42,61 @@
     {
         "id": "5",
         "name": "TCGGalaxy",
-        "date": "2025-07-13",
+        "date": "13-07-2025",
         "time": "10:00",
         "location": "Cultureel Centrum Lanaken",
         "city": "Lanaken",
         "latitude": 50.889123,
         "longitude": 5.699876
+    },
+    {
+        "id": "6",
+        "name": "Pocketflex",
+        "date": "27-09-2025",
+        "time": "10:00",
+        "location": "Dynamo Eindhoven",
+        "city": "Eindhoven",
+        "latitude": 51.437780755441466,
+        "longitude": 5.480577384120149
+    },
+    {
+        "id": "7",
+        "name": "Gamebeurs",
+        "date": "05-10-2025",
+        "time": "11:00",
+        "location": "Sporthal het Activum",
+        "city": "Hogeveen",
+        "latitude": 52.7234231335195,
+        "longitude": 6.494254428361218
+    },
+    {
+        "id": "8",
+        "name": "Collectorsgarden",
+        "date": "31-10-2025",
+        "time": "11:00",
+        "location": "Jaarbeurs Utrecht",
+        "city": "Utrecht",
+        "latitude": 52.08594815433384,
+        "longitude": 5.103287282303914
+    },
+    {
+        "id": "9",
+        "name": "Cardview XL beurs Rotterdam",
+        "date": "01-11-2025",
+        "time": "11:00",
+        "location": "Zevenkampse Ring hal Rotterdam",
+        "city": "Rotterdam",
+        "latitude": 51.964053163487804,
+        "longitude": 4.571202697639708
+    },
+    {
+        "id": "10",
+        "name": "TCG day Spijkenisse",
+        "date": "09-11-2025",
+        "time": "11:00",
+        "location": "Winkelcentrum Noordkade",
+        "city": "Pijkenisse",
+        "latitude": 51.61509695956464,
+        "longitude": 5.529811541799773
     }
 ]
