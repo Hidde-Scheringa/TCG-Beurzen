@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "Carddayz @ Brugge",
+        "date": "2025-07-05",
+        "time": "10:00",
+        "location": "Wijkcentrum Xaverianen",
+        "city": "Brugge",
+        "latitude": 51.194144,
+        "longitude": 3.217249
+    },
+    {
+        "id": "2",
+        "name": "Poyukécon event Den Haag",
+        "date": "2025-07-06",
+        "time": "11:00",
+        "location": "Sporthal Overbosch",
+        "city": "Den Haag",
+        "latitude": 52.068765,
+        "longitude": 4.328456
+    },
+    {
+        "id": "3",
+        "name": "Collectorsland (Rijswijk)",
+        "date": "2025-07-12",
+        "time": "10:00",
+        "location": "Broodfabriek",
+        "city": "Rijswijk",
+        "latitude": 52.035484,
+        "longitude": 4.329815
+    },
+    {
+        "id": "4",
+        "name": "Collectorsland (Rijswijk)",
+        "date": "2025-07-13",
+        "time": "10:00",
+        "location": "Broodfabriek",
+        "city": "Rijswijk",
+        "latitude": 52.035484,
+        "longitude": 4.329815
+    },
+    {
+        "id": "5",
+        "name": "TCGGalaxy",
+        "date": "2025-07-13",
+        "time": "10:00",
+        "location": "Cultureel Centrum Lanaken",
+        "city": "Lanaken",
+        "latitude": 50.889123,
+        "longitude": 5.699876
+    }
+]
